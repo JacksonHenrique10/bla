@@ -32,4 +32,4 @@ nesse curso voce vai dominar **github** do zero ao profissional.
 ...
 
 ### Rede social
-[instagram](www.senai.com.br)
+[Senai](https://www.sp.senai.br/)
